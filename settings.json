@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "g321.aternos.me",
-    "port": 21615,
+    "ip": "TupperMC.aternos.me",
+    "port": 44832,
     "version": ""
   },
   "position": {
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
